@@ -1,0 +1,5 @@
+{
+  "description": "GitMind Explorer: Um buscador de repositórios do GitHub com análise de perfil alimentada pela IA Gemini.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
